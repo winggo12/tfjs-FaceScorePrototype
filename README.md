@@ -18,6 +18,3 @@ A machine learning program / web tools that can recognize whether you are handso
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 
 ![alt text](https://i.ibb.co/0tyZbK9/pyimagekeras.png)
-
-For further enquiries,
-contact Louis (wing.987.hk@gmail.com) , Benny (study5641d2@gmail.com)
